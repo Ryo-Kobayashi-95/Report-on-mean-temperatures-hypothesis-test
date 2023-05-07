@@ -1,4 +1,4 @@
-# Hypothesis Test on Temparatures
+# Hypothesis Test on Temperatures
 
 April 30, 2023
 
